@@ -187,6 +187,10 @@ h1 {
         padding: 1rem 0;
     }
 
+    .container {
+        padding: 0 5px;
+    }
+
     h1 {
         font-size: 1.5rem;
     }
@@ -214,7 +218,7 @@ h1 {
     }
 
     .itinerary-content ul, .itinerary-content ol {
-        margin-left: 0;
+        margin-left: 1.2rem;
         margin-bottom: .9rem;
     }
 
