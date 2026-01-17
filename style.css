@@ -213,6 +213,11 @@ h1 {
         padding: 1rem;
     }
 
+    .itinerary-content ul, .itinerary-content ol {
+        margin-left: 0;
+        margin-bottom: .9rem;
+    }
+
     .itinerary-content h1 {
         font-size: 1.5rem;
     }
