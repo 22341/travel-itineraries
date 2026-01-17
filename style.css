@@ -62,7 +62,7 @@ h1 {
     gap: 2rem;
     width: 100%;
     max-width: 900px;
-    margin: 0 auto;
+    margin: 4rem auto;
 }
 
 .trip-card {
@@ -193,6 +193,7 @@ h1 {
     .trip-grid {
         grid-template-columns: 1fr;
         gap: 1rem;
+        margin: 0 auto;
     }
 
     .trip-card {
