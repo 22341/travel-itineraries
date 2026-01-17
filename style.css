@@ -23,7 +23,7 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    background: #667eea;
+    background: #312C85;
     color: white;
     padding: 0.8rem 1.5rem;
     border: none;
@@ -36,7 +36,7 @@ body {
 }
 
 .back-button:hover {
-    background: #764ba2;
+    background: #2f0d68;
 }
 
 .itinerary-content {
@@ -47,22 +47,22 @@ body {
 }
 
 .itinerary-content h1 {
-    color: #667eea;
+    color: #312c85;
     font-size: 2rem;
     margin-bottom: 1rem;
-    border-bottom: 3px solid #764ba2;
+    border-bottom: 3px solid #2f0d68;
     padding-bottom: 0.5rem;
 }
 
 .itinerary-content h2 {
-    color: #764ba2;
+    color: #2f0d68;
     font-size: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
 .itinerary-content h3 {
-    color: #667eea;
+    color: #312c85;
     font-size: 1.2rem;
     margin-top: 1.5rem;
     margin-bottom: 0.75rem;
@@ -85,7 +85,7 @@ body {
 }
 
 .itinerary-content th {
-    background: #667eea;
+    background: #312c85;
     color: white;
     padding: 1rem;
     text-align: left;
@@ -102,18 +102,18 @@ body {
 }
 
 .itinerary-content a {
-    color: #667eea;
+    color: #312c85;
     text-decoration: none;
-    border-bottom: 1px solid #667eea;
+    border-bottom: 1px solid #312c85;
 }
 
 .itinerary-content a:hover {
-    color: #764ba2;
-    border-bottom-color: #764ba2;
+    color: #2f0d68;
+    border-bottom-color: #2f0d68;
 }
 
 .itinerary-content strong {
-    color: #764ba2;
+    color: #2f0d68;
 }
 
 .itinerary-content hr {
