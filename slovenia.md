@@ -21,7 +21,7 @@ Your Slovenian adventure begins with an early afternoon train journey from Leeds
 
 ### Manchester to Ljubljana
 
-An early start this morning with a 6:10am flight from Manchester Airport to Ljubljana (£58). After a comfortable 2 hour 30 minute flight, you'll arrive in Slovenia's charming capital around 10:40am local time. Transfer to your apartment and spend the afternoon settling in and taking your first stroll through Ljubljana's beautiful Old Town. The compact city centre is wonderfully walkable, with the Ljubljanica River flowing through its heart, crossed by elegant bridges and lined with outdoor cafés.
+An early start this morning with a 6:10am flight from Manchester Airport to Ljubljana (£58). After a comfortable 2 hour 30 minute flight, you'll arrive in Slovenia's charming capital around 9:40am local time. Transfer to your apartment and spend the afternoon settling in and taking your first stroll through Ljubljana's beautiful Old Town. The compact city centre is wonderfully walkable, with the Ljubljanica River flowing through its heart, crossed by elegant bridges and lined with outdoor cafés.
 
 **Accommodation:** ibis Styles Ljubljana Centre - €65/night (£56) - 4 nights
 
