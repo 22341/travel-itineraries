@@ -11,7 +11,7 @@
 
 ### Leeds to Manchester
 
-Your Slovenian adventure begins with a morning train journey from Leeds to Manchester Piccadilly, taking approximately 1 hour 30 minutes (£10). Upon arrival in Manchester, you'll have the evening free to explore the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
+Your Slovenian adventure begins with an early afternoon train journey from Leeds to Manchester Piccadilly, departing around 2pm and taking approximately 1 hour 30 minutes (£10). Arriving in Manchester by mid-afternoon, you'll have plenty of time to check into your hotel and spend the evening exploring the vibrant city centre and the trendy Northern Quarter, known for its independent restaurants, bars, and lively atmosphere. Enjoy dinner and drinks before getting an early night ahead of tomorrow's flight.
 
 **Overnight:** Motel One Manchester-Piccadilly - £61
 
