@@ -17,7 +17,7 @@
 
 ### Riga
 - **Riga:** 2 nights *Arrive: Sat 21 Mar 2026*
-  - *Hotel: [Wellton Centrum Hotel & Spa](https://www.booking.com/hotel/lv/wellton-centrum-hotel-spa.html) (BOOKED)* - €75/night (£65.44)
+  - *Hotel: [Wellton Centrum Hotel & Spa](https://www.booking.com/hotel/lv/wellton-centrum-amp-spa.en-gb.html?aid=304142&label=gen173nr-10CAsoQkIPbWVyY2hhbnRzLWhvdXNlSDNYBGhQiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK97LPLBsACAdICJDNmZjVhMDNiLTkyOWUtNDk3NS04MjliLWRjODUyNGQ4MWZkZdgCAeACAQ&sid=bf5565719dccfcc1a37e3a2fbe509386&checkin=2027-04-03&checkout=2027-04-07&dest_id=768639&dest_type=hotel&dist=0&group_adults=1&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&soh=1&sr_order=popularity&srepoch=1768748640&srpvid=ddb20edf76ad65b3c07692d650bd19cc&type=total&ucfs=1) (BOOKED)* - €75/night (£65.44)
   - Riga Old Town (UNESCO World Heritage site)
   - House of the Blackheads and Town Hall Square
   - Riga Central Market (former Zeppelin hangars)
@@ -62,7 +62,7 @@
 
 ### Tallinn
 - **Tallinn:** 4 nights *Arrive: Wed 25 Mar 2026*
-  - *Hotel: [Merchants House Hotel](https://www.booking.com/hotel/ee/merchants-house.html) (BOOKED)* - €63/night (£54.97)
+  - *Hotel: [Merchants House Hotel](https://www.booking.com/hotel/ee/merchantshousehotel.en-gb.html?aid=304142&label=gen173nr-10CAsoQkIPbWVyY2hhbnRzLWhvdXNlSDNYBGhQiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK97LPLBsACAdICJDNmZjVhMDNiLTkyOWUtNDk3NS04MjliLWRjODUyNGQ4MWZkZdgCAeACAQ&sid=bf5565719dccfcc1a37e3a2fbe509386&checkin=2027-04-03&checkout=2027-04-07&dest_id=24507&dest_type=hotel&dist=0&group_adults=1&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&soh=1&sr_order=popularity&srepoch=1768748724&srpvid=d1bb28879aa848db504b4836a30f16d3&type=total&ucfs=1) (BOOKED)* - €63/night (£54.97)
   - UNESCO World Heritage Old Town exploration
   - Toompea Hill and Alexander Nevsky Cathedral
   - Medieval town walls and towers
