@@ -11,18 +11,18 @@
 
 ### London → Kuala Lumpur
 - **London:** 1 night (departure prep) *Arrive: Sat 6 Feb 2027*
-  - *Recommended hotel: Premier Inn Aldgate* - £80-120/night
+  - *Recommended hotel: [Premier Inn Aldgate](https://www.booking.com/searchresults.html?ss=Premier+Inn+Aldgate)* - £80-120/night
 - **Overnight Flight to Kuala Lumpur** *Depart: Sun 7 Feb 2027*
   - 13-hour overnight flight
 - **Kuala Lumpur:** 3 nights *Arrive: Mon 8 Feb 2027*
-  - *Recommended hotel: Holiday Inn Express Kuala Lumpur City Centre* - £45-50/night
+  - *Recommended hotel: [Holiday Inn Express Kuala Lumpur City Centre](https://www.booking.com/hotel/my/holiday-inn-express-kuala-lumpur-city-centre.html)* - £45-50/night
   - Explore Petronas Towers, Batu Caves
   - Street food tours in Chinatown and Little India
   - Visit Islamic Arts Museum
 
 ### Cambodia
 - **Phnom Penh:** 4 nights *Arrive: Thu 11 Feb 2027*
-  - *Recommended hotel: Botum Domrey Hotel* - £25-30/night
+  - *Recommended hotel: [Botum Domrey Hotel](https://www.booking.com/hotel/kh/botum-domrey.html)* - £25-30/night
   - Royal Palace and Silver Pagoda
   - Tuol Sleng Genocide Museum and Killing Fields
   - Central Market and riverside promenade
@@ -30,59 +30,59 @@
 
 ### Vietnam Journey
 - **Chau Doc:** 1 night (by Hang Chau ferry from Phnom Penh) *Arrive: Mon 15 Feb 2027*
-  - *Recommended hotel: Paris Hotel Chau Doc* - £25-30/night
+  - *Recommended hotel: [Paris Hotel Chau Doc](https://www.booking.com/searchresults.html?ss=Paris+Hotel+Chau+Doc)* - £25-30/night
   - Mekong Delta riverside town
   - Floating markets and fish farms
   - Sam Mountain views
 
 - **Can Tho:** 1 night (by private car) *Arrive: Tue 16 Feb 2027*
-  - *Recommended hotel: MIDMOST CASA* - £15-20/night
+  - *Recommended hotel: [MIDMOST CASA](https://www.booking.com/searchresults.html?ss=MIDMOST+CASA+Can+Tho)* - £15-20/night
   - Cai Rang Floating Market
   - Mekong Delta canals
   - Local fruit orchards
 
 - **Ho Chi Minh City:** 4 nights (by private car) *Arrive: Wed 17 Feb 2027*
-  - *Recommended hotel: Minh Luxury Eliana Hotel* - £30-40/night
+  - *Recommended hotel: [Minh Luxury Eliana Hotel](https://www.booking.com/searchresults.html?ss=Minh+Luxury+Eliana+Hotel+Ho+Chi+Minh)* - £30-40/night
   - War Remnants Museum and Cu Chi Tunnels
   - Ben Thanh Market and Saigon Central Post Office
   - Rooftop bars and street food tours
   - Notre-Dame Cathedral and Reunification Palace
 
 - **Hoi An:** 2 nights (by flight) *Arrive: Sun 21 Feb 2027*
-  - *Recommended hotel: Hai Hội Villa Hoi An* - £20-25/night
+  - *Recommended hotel: [Hai Hội Villa Hoi An](https://www.booking.com/searchresults.html?ss=Hai+Hội+Villa+Hoi+An)* - £20-25/night
   - Ancient Town UNESCO site
   - Lantern Festival (if timing aligns)
   - Cooking classes and tailor shopping
   - My Son Sanctuary day trip
 
 - **Da Nang:** 3 nights (by taxi) *Arrive: Tue 23 Feb 2027*
-  - *Recommended hotel: Happy Day Riverside Hotel & Spa Danang* - £25-35/night
+  - *Recommended hotel: [Happy Day Riverside Hotel & Spa Danang](https://www.booking.com/searchresults.html?ss=Happy+Day+Riverside+Hotel+Danang)* - £25-35/night
   - Marble Mountains and Buddhist caves
   - Dragon Bridge and Han River waterfront
   - My Khe Beach
   - Golden Bridge at Ba Na Hills
 
 - **Hue:** 2 nights (by private car) *Arrive: Fri 26 Feb 2027*
-  - *Recommended hotel: Hue Nino Hotel* - £20-30/night
+  - *Recommended hotel: [Hue Nino Hotel](https://www.booking.com/searchresults.html?ss=Hue+Nino+Hotel)* - £20-30/night
   - Imperial City and royal tombs
   - Perfume River boat trip
   - Traditional imperial cuisine
 
 - **Dong Ha:** 1 night (by private car) *Arrive: Sun 28 Feb 2027*
-  - *Recommended hotel: TBD* - £25/night
+  - *Recommended hotel: [Sai Gon Dong Ha Hotel](https://www.booking.com/searchresults.html?ss=Sai+Gon+Dong+Ha+Hotel)* - £20-25/night
   - DMZ tour base
   - Vinh Moc Tunnels
   - Khe Sanh Combat Base
 
 - **Overnight Train to Hanoi:** *Mon 1 Mar 2027*
-  - *Recommended train: SE1 Reunification Express (Premium Class)* - £120-140/night
+  - *Recommended train: SE1 Reunification Express (Premium Class)*
   - 14-15 hour journey through Vietnamese countryside
   - Premium sleeper cabin with air conditioning
   - Dinner and breakfast included
   - Scenic views of rice paddies and mountains
 
 - **Hanoi:** 5 nights *Arrive: Tue 2 Mar 2027*
-  - *Recommended hotel: Classic Street Hotel* - £35-45/night
+  - *Recommended hotel: [Classic Street Hotel](https://www.booking.com/searchresults.html?ss=Classic+Street+Hotel+Hanoi)* - £35-45/night
   - *Ha Long Bay cruise: Victory Star Cruise or Dragon Pearl Junk*
   - Old Quarter exploration
   - Temple of Literature, Hoan Kiem Lake
@@ -95,7 +95,7 @@
 
 ### Taipei
 - **Taipei:** 5 nights *Arrive: Sun 7 Mar 2027*
-  - *Recommended hotel: Via Hotel Zhongxiao* - £40-60/night
+  - *Recommended hotel: [Via Hotel Zhongxiao](https://www.booking.com/searchresults.html?ss=Via+Hotel+Zhongxiao+Taipei)* - £40-60/night
   - Taipei 101 and observation deck
   - National Palace Museum
   - Shilin Night Market and street food culture
@@ -112,7 +112,7 @@
 
 ### Manila
 - **Manila:** 3 nights *Arrive: Fri 12 Mar 2027*
-  - *Recommended hotel: The Milano Residences* - £30-40/night
+  - *Recommended hotel: [The Milano Residences](https://www.booking.com/searchresults.html?ss=The+Milano+Residences+Manila)* - £30-40/night
   - Intramuros historic walled city
   - Rizal Park and Fort Santiago
   - Manila Cathedral and San Agustin Church
@@ -124,7 +124,7 @@
 
 ### Cebu
 - **Cebu City:** 4 nights *Arrive: Mon 15 Mar 2027*
-  - *Recommended hotel: Red Planet Cebu* - £25-35/night
+  - *Recommended hotel: [Red Planet Cebu](https://www.booking.com/searchresults.html?ss=Red+Planet+Cebu)* - £25-35/night
   - Magellan's Cross and Basilica del Santo Niño
   - Fort San Pedro and Cebu Heritage Monument
   - Tops Lookout for panoramic city views
@@ -140,7 +140,7 @@
 
 ### Tokyo Metropolitan
 - **Tokyo:** 3 nights *Arrive: Fri 19 Mar 2027*
-  - *Recommended hotel: APA Hotel Yamanote Otsuka Ekimae Tower* - £65-85/night
+  - *Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)* - £65-85/night
   - Shibuya and Shinjuku modern districts
   - Asakusa and Senso-ji Temple
   - Tsukiji Outer Market food tour
@@ -150,7 +150,7 @@
 
 ### Chugoku Region
 - **Okayama:** 2 nights *Arrive: Mon 22 Mar 2027*
-  - *Recommended hotel: Okayama Koraku Hotel* - £55-75/night
+  - *Recommended hotel: [Okayama Koraku Hotel](https://www.booking.com/searchresults.html?ss=Okayama+Koraku+Hotel)* - £55-75/night
   - Korakuen Garden (one of Japan's top 3 gardens)
   - Okayama Castle (Crow Castle)
   - Day trip to Kurashiki historic district with Edo-era canals
@@ -158,7 +158,7 @@
 
 ### Kyushu Region
 - **Fukuoka:** 3 nights *Arrive: Wed 24 Mar 2027*
-  - *Recommended hotel: Hotel Grandolce HAKATA* - £45-65/night
+  - *Recommended hotel: [Hotel Grandolce HAKATA](https://www.booking.com/searchresults.html?ss=Hotel+Grandolce+HAKATA+Fukuoka)* - £45-65/night
   - Fukuoka Castle ruins and Ohori Park
   - Hakata ramen and yatai street food stalls
   - Dazaifu Tenmangu Shrine day trip
@@ -167,13 +167,13 @@
 
 ### Kansai Region
 - **Himeji:** 2 nights *Arrive: Sat 27 Mar 2027*
-  - *Recommended hotel: TBD* - £60/night
+  - *Recommended hotel: [KOKO HOTEL Himeji Castle](https://www.booking.com/searchresults.html?ss=KOKO+HOTEL+Himeji+Castle)* - £75-85/night
   - Himeji Castle (UNESCO World Heritage Site)
   - Kokoen Garden
   - Mount Shosha and Engyoji Temple
 
 - **Kobe:** 2 nights *Arrive: Mon 29 Mar 2027*
-  - *Recommended hotel: Hotel Monte Hermana Kobe Amalie* - £50-70/night
+  - *Recommended hotel: [Hotel Monte Hermana Kobe Amalie](https://www.booking.com/searchresults.html?ss=Hotel+Monte+Hermana+Kobe+Amalie)* - £50-70/night
   - Kobe Port and Harborland waterfront
   - Nunobiki Herb Gardens and ropeway
   - Famous Kobe beef dining experience
@@ -182,7 +182,7 @@
 
 ### Hokuriku Region
 - **Kanazawa:** 2 nights *Arrive: Wed 31 Mar 2027*
-  - *Recommended hotel: First Hotel Kanazawa* - £55-75/night
+  - *Recommended hotel: [First Hotel Kanazawa](https://www.booking.com/searchresults.html?ss=First+Hotel+Kanazawa)* - £55-75/night
   - Kenroku-en Garden (one of Japan's top 3)
   - Higashi Chaya geisha district
   - Kanazawa Castle and samurai district
@@ -192,7 +192,7 @@
 
 ### Tokyo Metropolitan
 - **Tokyo:** 1 night *Arrive: Fri 2 Apr 2027*
-  - *Recommended hotel: APA Hotel Yamanote Otsuka Ekimae Tower* - £65-85/night
+  - *Recommended hotel: [APA Hotel Yamanote Otsuka Ekimae Tower](https://www.booking.com/searchresults.html?ss=APA+Hotel+Yamanote+Otsuka+Ekimae+Tower+Tokyo)* - £65-85/night
   - Final shopping and exploration
   - Last-minute sightseeing or revisit favorites
 
@@ -202,7 +202,7 @@
 
 ### Hong Kong
 - **Hong Kong:** 4 nights *Arrive: Sat 3 Apr 2027*
-  - *Recommended hotel: Ibis Hong Kong Central & Sheung Wan* - £80-100/night
+  - *Recommended hotel: [Ibis Hong Kong Central & Sheung Wan](https://www.booking.com/searchresults.html?ss=Ibis+Hong+Kong+Central+Sheung+Wan)* - £80-100/night
   - Victoria Peak and Star Ferry
   - Dim sum culture and night markets
   - Temple Street and Symphony of Lights
@@ -210,7 +210,7 @@
 
 ### Mainland China
 - **Guilin:** 3 nights (by train) *Arrive: Wed 7 Apr 2027*
-  - *Recommended hotel: Wing Hotel Guilin, Central Square* - £35-45/night
+  - *Recommended hotel: [Wing Hotel Guilin, Central Square](https://www.booking.com/searchresults.html?ss=Wing+Hotel+Guilin+Central+Square)* - £35-45/night
   - Li River cruise to Yangshuo
   - Reed Flute Cave and Elephant Trunk Hill
   - Longji Rice Terraces day trip
@@ -218,7 +218,7 @@
   - West Street night market
 
 - **Chengdu:** 3 nights (by train) *Arrive: Sat 10 Apr 2027*
-  - *Recommended hotel: Chengdu Anjia High Altitude Hotel* - £35-45/night
+  - *Recommended hotel: [Chengdu Anjia High Altitude Hotel](https://www.booking.com/searchresults.html?ss=Chengdu+Anjia+High+Altitude+Hotel)* - £35-45/night
   - Giant Panda Breeding Research Base
   - Wuhou Shrine and Jinli Ancient Street
   - Sichuan hot pot and spicy cuisine
@@ -226,7 +226,7 @@
   - Traditional teahouse culture
 
 - **Xi'an:** 3 nights (by train) *Arrive: Tue 13 Apr 2027*
-  - *Recommended hotel: CitiGO Hotel, South Gate of Xi'an Bell Tower* - £30-40/night
+  - *Recommended hotel: [CitiGO Hotel, South Gate of Xi'an Bell Tower](https://www.booking.com/searchresults.html?ss=CitiGO+Hotel+Xian+Bell+Tower)* - £30-40/night
   - Terracotta Army day trip
   - Ancient City Wall cycling
   - Muslim Quarter food tour
@@ -234,7 +234,7 @@
   - Tang Dynasty show and dumpling banquet
 
 - **Beijing:** 4 nights (by train) *Arrive: Fri 16 Apr 2027*
-  - *Recommended hotel: East Sacred Hotel* - £55-65/night
+  - *Recommended hotel: [East Sacred Hotel](https://www.booking.com/searchresults.html?ss=East+Sacred+Hotel+Beijing)* - £55-65/night
   - Great Wall of China (Mutianyu section)
   - Forbidden City and Tiananmen Square
   - Temple of Heaven and hutong tours
@@ -246,7 +246,7 @@
 
 ### London
 - **London:** 1 night *Arrive: Tue 20 Apr 2027*
-  - *Recommended hotel: Premier Inn Aldgate* - £100/night
+  - *Recommended hotel: [Premier Inn Aldgate](https://www.booking.com/searchresults.html?ss=Premier+Inn+Aldgate)* - £100/night
   - Recover from jet lag and unwind
   - Final reflections on the career break journey
   - Reconnect with home
@@ -355,12 +355,12 @@
 | Region | Nights | Average Cost/Night | Total Cost |
 |--------|--------|-------------------|------------|
 | London | 2 | £100 | £200 |
-| Southeast Asia | 28 | £34 | £952 |
+| Southeast Asia | 27 | £35 | £945 |
 | Taiwan | 5 | £50 | £250 |
-| Philippines | 7 | £33 | £231 |
-| Japan | 15 | £62 | £930 |
-| Greater China | 17 | £47 | £799 |
-| **Total Accommodation** | **74** | **£43 avg** | **£3,362** |
+| Philippines | 7 | £32 | £225 |
+| Japan | 15 | £67 | £1,005 |
+| Greater China | 17 | £56 | £945 |
+| **Total Accommodation** | **73** | **£49 avg** | **£3,570** |
 
 ### Transportation
 | Category | Approximate Cost |
@@ -374,9 +374,9 @@
 ### Grand Total Estimate
 | Category | Estimate |
 |----------|----------|
-| Accommodation | £3,362 |
+| Accommodation | £3,570 |
 | Transportation | £3,273 |
-| **Trip Total** | **£6,635** |
+| **Trip Total** | **£6,843** |
 
 ### Additional Costs (Not Included)
 - **Meals & Drinks:** £50/day = £3,800 total
@@ -388,9 +388,9 @@
 - **Local Transport:** £10/day = £760 total
 
 ### Complete Trip Budget
-**Core Costs (Accommodation + Transportation):** £6,635  
+**Core Costs (Accommodation + Transportation):** £6,843  
 **Additional Expenses:** £6,510 total  
-**Total Trip Budget:** £13,145
+**Total Trip Budget:** £13,353
 
 *Note: Costs are based on mid-range options and vary significantly by season, advance booking, and personal choices. Southeast Asia offers the best value, while Japan and South Korea tend to be moderately priced.*
 
