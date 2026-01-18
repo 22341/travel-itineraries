@@ -24,6 +24,21 @@
                 document.getElementById('content').innerHTML = '<p>Error loading itinerary. Please try again.</p>';
                 console.error('Error loading markdown:', error);
             });
+
+        document.addEventListener('click', function (event) {
+            const link = event.target.closest('a');
+            if (link && link.href) {
+                const currentHost = window.location.hostname;
+                const linkHost = new URL(link.href).hostname;
+                const isExternal = linkHost !== currentHost;
+                const isAnchor = link.getAttribute('href').startsWith('#');
+
+                if (isExternal && !isAnchor) {
+                    event.preventDefault();
+                    window.open(link.href, '_blank', 'noopener,noreferrer');
+                }
+            }
+        }, false);
     </script>
 </body>
 </html>
