@@ -29,9 +29,9 @@
   - Traditional Latvian cuisine
   - **Activity: Guided Old Town Walking Tour** - £18
 
-- **Lux Express Bus to Tartu:** *Mon 23 Mar 2026*
-  - 12:45pm departure from Riga town centre
-  - 4 hours journey through the Baltic countryside
+- **Train to Tartu:** *Mon 23 Mar 2026*
+  - 12:45pm departure from Riga
+  - 3 hours 45 minutes journey through the Baltic countryside
 
 ---
 
@@ -120,15 +120,12 @@
 | Sun 29 Mar 2026 | Tallinn → Leeds via AMS (BOOKED) | 4h 40m | £197 |
 | **Total** | | | **£255** |
 
-### Buses
-| Date | Route | Travel Time | Cost (GBP) |
-|------|-------|-------------|------------|
-| Mon 23 Mar 2026 | Riga → Tartu | 4h | £16 |
-
 ### Trains
 | Date | Route | Travel Time | Cost (GBP) |
 |------|-------|-------------|------------|
+| Mon 23 Mar 2026 | Riga → Tartu | 3h 45m | £16 |
 | Wed 25 Mar 2026 | Tartu → Tallinn | 2h | £11 |
+| **Total** | | | **£27** |
 
 **Total Transportation Cost:** £282
 
@@ -148,8 +145,7 @@
 | Category | Cost |
 |----------|------|
 | Flights (BOOKED) | £255 |
-| Bus | £16 |
-| Train | £11 |
+| Trains | £27 |
 | **Total Transportation** | **£282** |
 
 ### Grand Total Estimate
@@ -181,8 +177,8 @@
 
 ### Transportation
 - **Early morning flight:** Arrive at Leeds Bradford Airport by 4:00am for 6:00am departure
-- **Seamless connections:** Bus from Riga town centre with ample time before accommodation check-in
-- **Train travel:** Comfortable and scenic route through Estonian countryside
+- **Direct train connections:** New direct rail service from Riga to Tartu, then continuing to Tallinn
+- **Train travel:** Comfortable and scenic routes through the Baltic countryside
 - **Return flight:** Via Amsterdam with KLM, allowing time for connection
 
 ### Practical Tips
