@@ -23,7 +23,7 @@ Your Slovenian adventure begins with a morning train journey from Leeds to Manch
 
 An early start this morning with a 6:10am flight from Manchester Airport to Ljubljana (£58). After a comfortable 2 hour 30 minute flight, you'll arrive in Slovenia's charming capital around 10:40am local time. Transfer to your apartment and spend the afternoon settling in and taking your first stroll through Ljubljana's beautiful Old Town. The compact city centre is wonderfully walkable, with the Ljubljanica River flowing through its heart, crossed by elegant bridges and lined with outdoor cafés.
 
-**Accommodation:** Zabjak5 Apartments - €76/night (£66.31) - 4 nights
+**Accommodation:** ibis Styles Ljubljana Centre - €65/night (£56) - 4 nights
 
 ---
 
@@ -83,8 +83,8 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 
 ### Accommodation (5 nights)
 - Manchester: 1 night at £61.00 = £61.00
-- Ljubljana: 4 nights at €76 (£66.31) = £265.24
-- **Total Accommodation: £326.24**
+- Ljubljana: 4 nights at €65 (£56) = £224.00
+- **Total Accommodation: £285.00**
 
 ### Transportation
 - Trains: £20.00
@@ -105,9 +105,9 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 - **Local Transport:** Included in daily budget
 
 ### Complete Trip Budget
-- **Core Costs:** £462.24
+- **Core Costs:** £421.00
 - **Additional Expenses:** £650.00
-- **Total Trip Budget: £1,112.24**
+- **Total Trip Budget: £1,071.00**
 
 *Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. November is autumn season with cooler weather but fewer tourists and good value for money.*
 
