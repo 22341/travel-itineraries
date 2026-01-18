@@ -1,7 +1,7 @@
 # Ljubljana Trip 2026
 
 ## Overview
-**Total Duration:** 7 days  
+**Total Duration:** 6 days  
 **Country:** Slovenia  
 **Travel Style:** Mix of cultural exploration, historical discovery, natural beauty, and local gastronomy
 
@@ -141,4 +141,4 @@ Ljubljana offers a perfect blend of historical charm and contemporary culture, a
 
 ---
 
-**Total Trip Duration:** 7 days (including travel days)
+**Total Trip Duration:** 6 days (including travel days)
