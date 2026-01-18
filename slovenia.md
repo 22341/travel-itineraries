@@ -96,8 +96,7 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 
 ### Additional Estimated Costs
 - **Meals & Drinks:** £100/day = £500 (5 days)
-- **Day Trips & Activities:** ~£150
-  - Lake Bled day trip (bus/tour): ~£30-50
+- **Day Trips & Activities:** ~£110
   - Postojna Cave & Predjama Castle tour: ~£50-70
   - Ljubljana Castle entrance & funicular: ~£15
   - Canal boat tour: ~£15
@@ -106,8 +105,8 @@ Your final morning in Ljubljana - perhaps a last stroll through the Old Town or 
 
 ### Complete Trip Budget
 - **Core Costs:** £421.00
-- **Additional Expenses:** £650.00
-- **Total Trip Budget: £1,071.00**
+- **Additional Expenses:** £610.00
+- **Total Trip Budget: £1,031.00**
 
 *Note: Slovenia uses the Euro; exchange rate of 0.8725 used for conversions. November is autumn season with cooler weather but fewer tourists and good value for money.*
 
