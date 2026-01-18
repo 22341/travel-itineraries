@@ -25,7 +25,7 @@
                 console.error('Error loading markdown:', error);
             });
 
-            document.addEventListener('click', function (event) {
+        document.addEventListener('click', function (event) {
             const link = event.target.closest('a');
             if (link && link.href) {
                 const currentHost = window.location.hostname;
