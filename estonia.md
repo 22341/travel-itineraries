@@ -17,7 +17,7 @@
 
 ### Riga
 - **Riga:** 2 nights *Arrive: Sat 21 Mar 2026*
-  - *Hotel: Wellton Centrum Hotel & Spa (BOOKED)* - €75/night (£65.44)
+  - *Hotel: [Wellton Centrum Hotel & Spa](https://www.booking.com/hotel/lv/wellton-centrum-hotel-spa.html) (BOOKED)* - €75/night (£65.44)
   - Riga Old Town (UNESCO World Heritage site)
   - House of the Blackheads and Town Hall Square
   - Riga Central Market (former Zeppelin hangars)
@@ -39,7 +39,7 @@
 
 ### Tartu
 - **Tartu:** 2 nights *Arrive: Mon 23 Mar 2026*
-  - *Hotel: Tampere Maja (BOOKED)* - €78/night (£68.06)
+  - *Hotel: [Tampere Maja](https://www.booking.com/hotel/ee/tampere-maja.html) (BOOKED)* - €78/night (£68.06)
   - University of Tartu and historic university quarter
   - Estonian National Museum for cultural insights
   - Old Town exploration and Town Hall Square
@@ -62,7 +62,7 @@
 
 ### Tallinn
 - **Tallinn:** 4 nights *Arrive: Wed 25 Mar 2026*
-  - *Hotel: Merchants House Hotel (BOOKED)* - €63/night (£54.97)
+  - *Hotel: [Merchants House Hotel](https://www.booking.com/hotel/ee/merchants-house.html) (BOOKED)* - €63/night (£54.97)
   - UNESCO World Heritage Old Town exploration
   - Toompea Hill and Alexander Nevsky Cathedral
   - Medieval town walls and towers
