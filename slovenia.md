@@ -27,7 +27,7 @@ An early start this morning with a 6:10am flight from Manchester Airport to Ljub
 
 ---
 
-## Days 2-5: Tuesday 3th - Friday 6th November 2026
+## Days 2-5: Tuesday 3rd - Friday 6th November 2026
 
 ### Exploring Ljubljana and Beyond
 
