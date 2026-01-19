@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estonia - Baltic Adventure 2026</title>
+    <title>Porto by Train</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="../../style.css">
 </head>
 <body>
     <div class="container">
-        <a href="index.html" class="back-button">← Back to Home</a>
+        <a href="../../index.html" class="back-button">← Back to Home</a>
         <div class="itinerary-content" id="content">Loading...</div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Fetch and display the markdown file
-        fetch('estonia.md')
+        fetch('porto.md')
             .then(response => response.text())
             .then(markdown => {
                 document.getElementById('content').innerHTML = marked.parse(markdown);
